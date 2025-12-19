@@ -26,8 +26,8 @@ Próximamente, iniciaré mi formación en Ciencias de la Computación con el obj
 [<img src="https://jeremydiaz.netlify.app/assets/projects/movies.webp" alt="Movies" width="32%">](https://studiomovies.netlify.app/)
 [<img src="https://jeremydiaz.netlify.app/assets/projects/god-of-war.webp" alt="God of War Ragnarok" width="32%">](https://god-of-war-ragnarok-clone.netlify.app/)
 [<img src="https://jeremydiaz.netlify.app/assets/projects/rick-and-morty.webp" alt="Rick and Morty" width="32%">](https://rick-and-morty-platform.netlify.app/)
-[<img src="https://github.com/jeremy-cdc/reto-100-dias/blob/main/images/tesla/hero.png" alt="Tesla" width="32%">](https://the-tesla-clon.netlify.app/)
 [<img src="https://jeremydiaz.netlify.app/assets/projects/chat-local.webp" alt="Chat local" width="32%">](https://chatlocal.netlify.app/)
+[<img src="https://github.com/jeremy-cdc/reto-100-dias/blob/main/images/tesla/hero.png" alt="Tesla" width="32%">](https://the-tesla-clon.netlify.app/)
 
 ## Estadísticas 📢
 
