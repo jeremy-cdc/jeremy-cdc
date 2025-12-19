@@ -1,37 +1,39 @@
 # Bienvenido 👋 Soy Jeremy Díaz 👨‍💻
 
 ```
-console.log("Más de dos años desarrollando como Frontend Developer & Software Developer");
+console.log("Desarrollador Frontend autodidacta y próximo estudiante de Ciencias de la Computación");
 ```
 
 ¡Echale un vistazo a mis redes sociales y mi portfolio!  
 
-[<img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="Jeremy Díaz LinkedIn">](https://www.linkedin.com/in/jevmydev/)
-[<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" alt="Jeremy Díaz Instagram">](https://instagram.com/jevmydev/)
-[<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" alt="Jeremy Díaz Twitter">](https://twitter.com/jevmydev/)
-[<img src="https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label=" alt="Jeremy Díaz Youtube">](https://www.youtube.com/@jevmydev)
+[<img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="Jeremy Díaz LinkedIn">](https://www.linkedin.com/in/jeremycdc/)
+[<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" alt="Jeremy Díaz Instagram">](https://instagram.com/jeremy_cdc/)
+[<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" alt="Jeremy Díaz Twitter">](https://twitter.com/Jeremy_CDC/)
+[<img src="https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label=" alt="Jeremy Díaz Youtube">](https://www.youtube.com/@jeremycdc)
 [<img src="https://jeremydiaz.netlify.app/favicon.webp" alt="Logo de Jeremy Díaz" width="28px" height="28px">](https://jeremydiaz.netlify.app)
   
 ## Sobre mí ✨
 
-Comencé mi aprendizaje de forma autodidacta utilizando diversos recursos como tutoriales, directos, blogs, lecturas y proyectos personales.
-Desde entonces, he estado constantemente desarrollando y mejorando mis habilidades.
+Comencé mi aprendizaje en programación de forma autodidacta utilizando diversos recursos como tutoriales, directos, blogs, lecturas y proyectos personales.
+Desde entonces, he estado constantemente desarrollando y mejorando mis habilidades, especializándome en desarrollo Frontend.
 Me siento muy cómodo en este ámbito profesional y disfruto compartiendo mis conocimientos y aprendiendo de los demás.
+
+Próximamente, iniciaré mi formación en Ciencias de la Computación con el objetivo de profundizar y consolidar nuevos conocimientos.
 
 ## Mis proyectos favoritos 🚀
 
-[<img src="https://jeremydiaz.netlify.app/assets/projects/navigatex.webp" alt="NavigateX" width="32%">](https://navigatex.netlify.app/)
 [<img src="https://jeremydiaz.netlify.app/assets/projects/skytracker.webp" alt="Skytracker" width="32%">](https://skytracker.netlify.app/)
 [<img src="https://jeremydiaz.netlify.app/assets/projects/movies.webp" alt="Movies" width="32%">](https://studiomovies.netlify.app/)
 [<img src="https://jeremydiaz.netlify.app/assets/projects/god-of-war.webp" alt="God of War Ragnarok" width="32%">](https://god-of-war-ragnarok-clone.netlify.app/)
 [<img src="https://jeremydiaz.netlify.app/assets/projects/rick-and-morty.webp" alt="Rick and Morty" width="32%">](https://rick-and-morty-platform.netlify.app/)
+[<img src="https://github.com/jeremy-cdc/reto-100-dias/blob/main/images/tesla/hero.png" alt="Tesla" width="32%">](https://the-tesla-clon.netlify.app/)
 [<img src="https://jeremydiaz.netlify.app/assets/projects/chat-local.webp" alt="Chat local" width="32%">](https://chatlocal.netlify.app/)
 
 ## Estadísticas 📢
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=jevmydev" height="150px" alt="Estadística de usos de lenguaje de Jeremy Díaz">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=jevmydev" height="150px" alt="Estadística de Github Profile de Jeremy Díaz">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=jeremy-cdc" height="150px" alt="Estadística de usos de lenguaje de Jeremy Díaz">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=jeremy-cdc" height="150px" alt="Estadística de Github Profile de Jeremy Díaz">
 </p>
 
 <p align="left">
@@ -61,5 +63,5 @@ Me siento muy cómodo en este ámbito profesional y disfruto compartiendo mis co
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jevmydev&style=flat&color=dd6387" alt="Estadística de visitas del perfil de Jeremy Díaz"> 
+  <img src="https://komarev.com/ghpvc/?username=jeremy-cdc&style=flat&color=dd6387" alt="Estadística de visitas del perfil de Jeremy Díaz"> 
 </p>
