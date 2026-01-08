@@ -18,7 +18,7 @@ Comencé mi aprendizaje en programación de forma autodidacta utilizando diverso
 Desde entonces, he estado constantemente desarrollando y mejorando mis habilidades, especializándome en desarrollo Frontend.
 Me siento muy cómodo en este ámbito profesional y disfruto compartiendo mis conocimientos y aprendiendo de los demás.
 
-Próximamente, iniciaré mi formación en Ciencias de la Computación con el objetivo de profundizar y consolidar nuevos conocimientos.
+Próximamente, iniciaré mi formación en Ingeniería Civil en Computación con el objetivo de profundizar y consolidar nuevos conocimientos.
 
 ## Mis proyectos favoritos 🚀
 
