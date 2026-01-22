@@ -1,7 +1,7 @@
 # Bienvenido 👋 Soy Jeremy Díaz 👨‍💻
 
 ```
-console.log("Estudiante de Ingeniería Civil en Computación | Desarrollador Frontend autodidacta");
+console.log("Estudiante de Ingeniería Civil en Computación en Universidad de Chile | Desarrollador Frontend autodidacta");
 ```
 
 ¡Echale un vistazo a mis redes sociales y mi portfolio!  
